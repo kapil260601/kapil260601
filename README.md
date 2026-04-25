@@ -1,5 +1,5 @@
 # 💫 About Me:
-MERN Stack Developer with 4.5+ years of experience in designing, developing, and maintaining scalable, high<br>performance web applications. Strong expertise in React.js, TypeScript, JavaScript (ES6+), HTML, and CSS, along<br>with 3+ years of hands-on experience in backend development using Node.js, Express.js, and MongoDB. Proven<br>ability to build secure RESTful APIs, implement authentication and authorization using JWT and RBAC, handle<br>f<br>ile uploads, caching, and performance optimization, and deliver clean, maintainable, and production-ready full-stack<br>solutions while collaborating effectively in agile, cross-functional team
+MERN Stack Developer with 4.5+ years of experience in designing, developing, and maintaining scalable, high<br>performance web applications. Strong expertise in React.js, TypeScript, JavaScript (ES6+), HTML, and CSS, along<br>with 3+ years of hands-on experience in backend development using Node.js, Express.js, and MongoDB. Proven<br>ability to build secure RESTful APIs, implement authentication and authorization using JWT and RBAC, handle<br>file uploads, caching, and performance optimization, and deliver clean, maintainable, and production-ready full-stack<br>solutions while collaborating effectively in agile, cross-functional team
 
 
 ## 🌐 Socials:
